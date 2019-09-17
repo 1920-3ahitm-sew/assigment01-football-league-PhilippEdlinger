@@ -11,7 +11,7 @@
 
 Entwickeln Sie eine Anwendung zur Verwaltung von Fußball-Ligen. Der geforderte Aufbau der Applikation ist im folgenden Klassendiagramm dargestellt:
 
-![img](./images/classDiagram.png)
+![](C:\Users\Edlin\OneDrive\Desktop\assigment01-football-league-PhilippEdlinger\images\football-class-diagram.png)
 
 Die obigen Klassen sind folgendermaßen zu verwenden:
 
