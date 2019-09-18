@@ -73,6 +73,7 @@ public class Team implements Comparable<Team> {
     }
 
     public void addMatch(Match match){
+        // Verteilung der Punkte
         if(match.getHomeName().equals( this.getName())){
             if(match.getHomeGoals() > match.getGuestGoals()){
                 setPoints(3);
